@@ -1,0 +1,38 @@
+
+.my-border-primary{
+    border: 1px solid;
+    border-color: #b91450;
+}
+body{
+    background-color: #b91450;
+    color: #b91450;
+}
+h1{
+    color: white;
+}
+.ticket-information{
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.my-buttons{
+    color: #b91450;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.ticket-generated{
+    background-color: white;
+    color: black;
+    padding: 1rem;
+}
+.my-card{
+    border: 1px solid #808080;
+    padding: 1rem;
+}
+.bg-ticket{
+    background-color:#808080 ;
+}
+.input-row{
+    padding: 1rem;
+}
